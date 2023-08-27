@@ -1,6 +1,6 @@
 # Multicontainer application
 
-Codeching - video 9 - Multi container deployment kubernetes | React| Node.js | Postgres | Ingress Nginx | step by step
+Multi container deployment in kubernetes | React| Node.js | Postgres | Ingress Nginx | step by step
 
 
 It contains React client, Node.js backend, PostgreSQL and Nginx
